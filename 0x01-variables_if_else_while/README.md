@@ -1,1 +1,1 @@
-0x01. C - Variables, if, else, while
+Project for alx with 10 mandatory task
